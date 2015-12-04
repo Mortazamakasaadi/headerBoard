@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=NetAtmega32a_14 Pin=Atmega32a-14
+Added Pin To Net: NetName=NetAtmega32a_14 Pin=PB&PD-8
+Added Net: Name=NetAtmega32a_14
+Added Pin To Net: NetName=NetAtmega32a_15 Pin=Atmega32a-15
+Added Pin To Net: NetName=NetAtmega32a_15 Pin=PB&PD-7
+Added Net: Name=NetAtmega32a_15
+Added Pin To Net: NetName=NetAtmega32a_16 Pin=Atmega32a-16
+Added Pin To Net: NetName=NetAtmega32a_16 Pin=PB&PD-6
+Added Net: Name=NetAtmega32a_16
+Added Pin To Net: NetName=NetAtmega32a_17 Pin=Atmega32a-17
+Added Pin To Net: NetName=NetAtmega32a_17 Pin=PB&PD-5
+Added Net: Name=NetAtmega32a_17
+Added Pin To Net: NetName=NetAtmega32a_18 Pin=Atmega32a-18
+Added Pin To Net: NetName=NetAtmega32a_18 Pin=PB&PD-4
+Added Net: Name=NetAtmega32a_18
+Added Pin To Net: NetName=NetAtmega32a_19 Pin=Atmega32a-19
+Added Pin To Net: NetName=NetAtmega32a_19 Pin=PB&PD-3
+Added Net: Name=NetAtmega32a_19
+Added Pin To Net: NetName=NetAtmega32a_20 Pin=Atmega32a-20
+Added Pin To Net: NetName=NetAtmega32a_20 Pin=PB&PD-2
+Added Net: Name=NetAtmega32a_20
+Added Pin To Net: NetName=NetAtmega32a_21 Pin=Atmega32a-21
+Added Pin To Net: NetName=NetAtmega32a_21 Pin=PB&PD-1
+Added Net: Name=NetAtmega32a_21

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VIN Pin=ISP-2
+Change Component Footprint: Designator=Xtal Old Footprint=Cap 10nF New Footprint=Crystal SMD
+Added Component: Designator=DISP(DO-35)
+Added Pin To Net: NetName=VIN Pin=DISP-2
+Added Pin To Net: NetName=NetDISP_1 Pin=DISP-1
+Added Pin To Net: NetName=NetDISP_1 Pin=ISP-2
+Added Net: Name=NetDISP_1
+Added Member To Class: ClassName=HeaderBoard Member=Component DISP Diode 1N914

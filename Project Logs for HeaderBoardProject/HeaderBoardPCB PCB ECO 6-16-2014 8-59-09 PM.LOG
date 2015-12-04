@@ -1,0 +1,9 @@
+Added Component: Designator=LEDon(LED-5mm-IR Reciver)
+Added Component: Designator=OnLED(AXIAL-0.3)
+Added Pin To Net: NetName=GND Pin=LEDon-2
+Added Pin To Net: NetName=VIN Pin=OnLED-2
+Added Pin To Net: NetName=NetLEDon_1 Pin=LEDon-1
+Added Pin To Net: NetName=NetLEDon_1 Pin=OnLED-1
+Added Net: Name=NetLEDon_1
+Added Member To Class: ClassName=HeaderBoard Member=Component LEDon IR Reciever
+Added Member To Class: ClassName=HeaderBoard Member=Component OnLED Res1

@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=NetAtmega32a_22 Pin=PA&PC-9
+Removed Pin From Net: NetName=NetAtmega32a_23 Pin=PA&PC-10
+Removed Pin From Net: NetName=NetAtmega32a_24 Pin=PA&PC-11
+Removed Pin From Net: NetName=NetAtmega32a_25 Pin=PA&PC-12
+Removed Pin From Net: NetName=NetAtmega32a_26 Pin=PA&PC-13
+Removed Pin From Net: NetName=NetAtmega32a_27 Pin=PA&PC-14
+Removed Pin From Net: NetName=NetAtmega32a_28 Pin=PA&PC-15
+Removed Pin From Net: NetName=NetAtmega32a_29 Pin=PA&PC-16
+Removed Pin From Net: NetName=NetAtmega32a_21 Pin=PB&PD-1
+Removed Pin From Net: NetName=NetAtmega32a_20 Pin=PB&PD-2
+Removed Pin From Net: NetName=NetAtmega32a_19 Pin=PB&PD-3
+Removed Pin From Net: NetName=NetAtmega32a_18 Pin=PB&PD-4
+Removed Pin From Net: NetName=NetAtmega32a_17 Pin=PB&PD-5
+Removed Pin From Net: NetName=NetAtmega32a_16 Pin=PB&PD-6
+Removed Pin From Net: NetName=NetAtmega32a_15 Pin=PB&PD-7
+Removed Pin From Net: NetName=NetAtmega32a_14 Pin=PB&PD-8
+Removed Pin From Net: NetName=SCK Pin=PB&PD-9
+Removed Pin From Net: NetName=MISO Pin=PB&PD-10
+Removed Pin From Net: NetName=MOSI Pin=PB&PD-11
+Removed Pin From Net: NetName=NetAtmega32a_5 Pin=PB&PD-12
+Removed Pin From Net: NetName=NetAtmega32a_4 Pin=PB&PD-13
+Removed Pin From Net: NetName=NetAtmega32a_3 Pin=PB&PD-14
+Removed Pin From Net: NetName=NetAtmega32a_2 Pin=PB&PD-15
+Removed Pin From Net: NetName=NetAtmega32a_1 Pin=PB&PD-16
+Removed Member From Class: ClassName=HeaderBoard Member=PA&PC
+Removed Member From Class: ClassName=HeaderBoard Member=PB&PD
+Added Component: Designator=PA(HDR1X8)
+Added Component: Designator=PB(HDR1X8)
+Added Component: Designator=PC(HDR1X8)
+Added Component: Designator=PD(HDR1X8)
+Added Pin To Net: NetName=SCK Pin=PB-1
+Added Pin To Net: NetName=MISO Pin=PB-2
+Added Pin To Net: NetName=MOSI Pin=PB-3
+Added Pin To Net: NetName=NetAtmega32a_5 Pin=PB-4
+Added Pin To Net: NetName=NetAtmega32a_4 Pin=PB-5
+Added Pin To Net: NetName=NetAtmega32a_3 Pin=PB-6
+Added Pin To Net: NetName=NetAtmega32a_2 Pin=PB-7
+Added Pin To Net: NetName=NetAtmega32a_1 Pin=PB-8
+Added Pin To Net: NetName=NetAtmega32a_22 Pin=PC-1
+Added Pin To Net: NetName=NetAtmega32a_23 Pin=PC-2
+Added Pin To Net: NetName=NetAtmega32a_24 Pin=PC-3
+Added Pin To Net: NetName=NetAtmega32a_25 Pin=PC-4
+Added Pin To Net: NetName=NetAtmega32a_26 Pin=PC-5
+Added Pin To Net: NetName=NetAtmega32a_27 Pin=PC-6
+Added Pin To Net: NetName=NetAtmega32a_28 Pin=PC-7
+Added Pin To Net: NetName=NetAtmega32a_29 Pin=PC-8
+Added Pin To Net: NetName=NetAtmega32a_21 Pin=PD-1
+Added Pin To Net: NetName=NetAtmega32a_20 Pin=PD-2
+Added Pin To Net: NetName=NetAtmega32a_19 Pin=PD-3
+Added Pin To Net: NetName=NetAtmega32a_18 Pin=PD-4
+Added Pin To Net: NetName=NetAtmega32a_17 Pin=PD-5
+Added Pin To Net: NetName=NetAtmega32a_16 Pin=PD-6
+Added Pin To Net: NetName=NetAtmega32a_15 Pin=PD-7
+Added Pin To Net: NetName=NetAtmega32a_14 Pin=PD-8
+Added Pin To Net: NetName=NetAtmega32a_33 Pin=Atmega32a-33
+Added Pin To Net: NetName=NetAtmega32a_33 Pin=PA-8
+Added Net: Name=NetAtmega32a_33
+Added Pin To Net: NetName=NetAtmega32a_34 Pin=Atmega32a-34
+Added Pin To Net: NetName=NetAtmega32a_34 Pin=PA-7
+Added Net: Name=NetAtmega32a_34
+Added Pin To Net: NetName=NetAtmega32a_35 Pin=Atmega32a-35
+Added Pin To Net: NetName=NetAtmega32a_35 Pin=PA-6
+Added Net: Name=NetAtmega32a_35
+Added Pin To Net: NetName=NetAtmega32a_36 Pin=Atmega32a-36
+Added Pin To Net: NetName=NetAtmega32a_36 Pin=PA-5
+Added Net: Name=NetAtmega32a_36
+Added Pin To Net: NetName=NetAtmega32a_37 Pin=Atmega32a-37
+Added Pin To Net: NetName=NetAtmega32a_37 Pin=PA-4
+Added Net: Name=NetAtmega32a_37
+Added Pin To Net: NetName=NetAtmega32a_38 Pin=Atmega32a-38
+Added Pin To Net: NetName=NetAtmega32a_38 Pin=PA-3
+Added Net: Name=NetAtmega32a_38
+Added Pin To Net: NetName=NetAtmega32a_39 Pin=Atmega32a-39
+Added Pin To Net: NetName=NetAtmega32a_39 Pin=PA-2
+Added Net: Name=NetAtmega32a_39
+Added Pin To Net: NetName=NetAtmega32a_40 Pin=Atmega32a-40
+Added Pin To Net: NetName=NetAtmega32a_40 Pin=PA-1
+Added Net: Name=NetAtmega32a_40
+Added Member To Class: ClassName=HeaderBoard Member=Component PA Header 8
+Added Member To Class: ClassName=HeaderBoard Member=Component PB Header 8
+Added Member To Class: ClassName=HeaderBoard Member=Component PC Header 8
+Added Member To Class: ClassName=HeaderBoard Member=Component PD Header 8

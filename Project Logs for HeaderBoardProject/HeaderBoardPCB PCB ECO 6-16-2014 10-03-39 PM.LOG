@@ -1,0 +1,6 @@
+Added Component: Designator=GJumper(RAD-0.2)
+Added Pin To Net: NetName=GND Pin=GJumper-2
+Added Pin To Net: NetName=NetGJumper_1 Pin=GJumper-1
+Added Pin To Net: NetName=NetGJumper_1 Pin=ISP-6
+Added Net: Name=NetGJumper_1
+Added Member To Class: ClassName=HeaderBoard Member=Component GJumper Jumper

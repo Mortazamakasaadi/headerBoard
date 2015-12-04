@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C1 Old Footprint=R38 New Footprint=cap 02
+Change Component Footprint: Designator=C2 Old Footprint=R38 New Footprint=cap 02
+Change Component Footprint: Designator=C5 Old Footprint=R38 New Footprint=cap 02
+Change Component Footprint: Designator=C3 Old Footprint=R38 New Footprint=Cap - 100nF
+Change Component Footprint: Designator=C4 Old Footprint=R38 New Footprint=Cap - 100nF
+Change Component Footprint: Designator=Y1 Old Footprint=R38 New Footprint=Crystal SMD
+Change Component Footprint: Designator=U2 Old Footprint=TO220H New Footprint=78XXCV - Right

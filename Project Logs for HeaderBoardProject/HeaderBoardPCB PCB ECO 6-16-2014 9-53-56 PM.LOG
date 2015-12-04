@@ -1,0 +1,4 @@
+Added Component: Designator=DJumper(RAD-0.2)
+Added Pin To Net: NetName=VIN Pin=DJumper-1
+Added Pin To Net: NetName=VIN Pin=DJumper-2
+Added Member To Class: ClassName=HeaderBoard Member=Component DJumper Jumper

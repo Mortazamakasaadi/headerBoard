@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VIN Pin=DISP-2
+Removed Pin From Net: NetName=VIN Pin=DJumper-1
+Change Component Footprint: Designator=DJumper Old Footprint=RAD-0.4 New Footprint=RAD-0.2
+Added Pin To Net: NetName=NetDISP_2 Pin=DISP-2
+Added Pin To Net: NetName=NetDISP_2 Pin=DJumper-1
+Added Net: Name=NetDISP_2
